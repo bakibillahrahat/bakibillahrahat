@@ -1,8 +1,9 @@
 <h1 align="center">Hi 👋, I'm MD. Bakibillah Rahat</h1>
 <h3 align="center">MERN STACK Developer</h3>
 
-- 🔭 I’m currently working on ...
+- 👀 I’m interested in Javascript, React Node.js
 - 🌱 I’m currently learning **Machine Learning**
+- 💞️ I’m looking to collaborate on new projects and ideas
 - 👨‍💻 All of my projects are available at [bakibillahrahat.com](bakibillahrahat.com)
 - 💬 Ask me about **MERN**
 - 📫 How to reach me **bakibillahrahat@protonmail.com**
