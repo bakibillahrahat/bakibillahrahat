@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm MD. Bakibillah Rahat</h1>
-<h3 align="center">Full STACK Developer</h3>
+<h3 align="center">Full STACK Software Developer</h3>
 
-- 👀 I’m interested in Web Development, Deep Learning & Computer Vision
+- 👀 I’m interested in Software Development, Deep Learning & Computer Vision
 - 🌱 I’m currently learning **Machine Learning**
 - 💞️ I’m looking to collaborate on new projects and ideas
 - 👨‍💻 All of my projects are available at [bakibillahrahat.com](https://bakibillahrahat.com)
