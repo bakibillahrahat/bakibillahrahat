@@ -4,7 +4,7 @@
 - 👀 I’m interested in Software Development, Deep Learning & Computer Vision
 - 🌱 I’m currently learning **Machine Learning**
 - 💞️ I’m looking to collaborate on new projects and ideas
-- 👨‍💻 All of my projects are available at [bakibillahrahat.com](https://bakibillahrahat.com)
+- 👨‍💻 All of my projects are available at [bakibillahrahat.me](https://bakibillahrahat.me)
 - 💬 Ask me about **My work**
 - 📫 How to reach me **bakibillahrahat@protonmail.com**
 <!--
