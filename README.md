@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm MD. Bakibillah Rahat</h1>
-<h3 align="center">Full Stack Software Developer | AI & Deep Learning Enthusiast</h3>
+<h3 align="center">Software Engineer | AI & Deep Learning Enthusiast</h3>
 
 <p align="center">
   <a href="https://bakibillahrahat.me">
