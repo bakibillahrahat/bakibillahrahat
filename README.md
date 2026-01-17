@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="https://bakibillahrahat.me">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=23F7DD&center=true&vCenter=true&width=435&lines=Software+Developer;Backend+Engineer+(Java%2C+Go%2C);Deep+Learning+%26+Computer+Vision;Open+Source+Contributor" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=23F7DD&center=true&vCenter=true&width=435&lines=Software+Engineer;Backend+Engineer+(Java%2C+Go%2C);Deep+Learning+%26+Computer+Vision;Open+Source+Contributor" alt="Typing SVG" />
   </a>
 </p>
 
