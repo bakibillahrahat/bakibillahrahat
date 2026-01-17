@@ -74,14 +74,3 @@
   <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
 </p>
-
----
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bakibillahrahat&show_icons=true&theme=radical" height="180" alt="stats graph" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bakibillahrahat&layout=compact&theme=radical" height="180" alt="languages graph" />
-
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bakibillahrahat&theme=radical" height="180" alt="streak graph" />
-</div>
