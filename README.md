@@ -17,7 +17,7 @@
 
 ### 👨‍💻 About Me
 
-- 🔭 I’m currently working on **Full Stack Software Development**
+- 🔭 I’m currently working on **Software Development**
 - ⚙️ My core backend stack includes **Java, Golang & Python**
 - 👀 I’m interested in **Deep Learning, Computer Vision & AI**
 - 💼 All of my projects are available at [**bakibillahrahat.me**](https://bakibillahrahat.me)
